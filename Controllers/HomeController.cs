@@ -15,6 +15,19 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        return View("Index");
+    }
+    public IActionResult Tutorial()
+    {
+        return View("Tutorial");
+    }
+    public IActionResult Comenzar()
+    {
+        string sala="sala" + escape.GetEstadoJuego();
+        return View(sala);
+    }
+    public IActionResult Habitacion(int sala, string clave)
+    {
         return View();
     }
 

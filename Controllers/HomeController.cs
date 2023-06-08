@@ -28,7 +28,14 @@ public class HomeController : Controller
     }
     public IActionResult Habitacion(int sala, string clave)
     {
-        return View();
+        ViewBag.Error="";
+        if (sala==escape.GetEstadoJuego()){
+            bool claveCorrecta=escape.resolverSala(sala, clave);
+            if (!claveCorrecta) ViewBag.Error="La clave ingresada no es correcta";
+            if (sala==4) return View("victoria");
+            else return Comenzar();
+        }
+        else return Comenzar(); 
     }
 
     public IActionResult Privacy()

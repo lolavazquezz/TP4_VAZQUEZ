@@ -1,0 +1,9 @@
+<h1>sala 3</h1>
+<p>descripcion</p>
+<img src="sala3.jpg">
+@ViewBag.Error
+<form action='@Url.Action("Habitacion")' method="post">
+    <input type="text" name="clave" placeholder="Ingrese la clave" required>
+    <input type="hidden" name="sala" value="3">
+    <input type="submit" value="Enviar">
+</form>

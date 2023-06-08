@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\1.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\2.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\3.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\portada.png",
+      "PackagePath": "staticwebassets\\imagenes\\portada.png"
+    },
+    {
       "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -32,12 +32,29 @@ public class HomeController : Controller
         if (sala==escape.GetEstadoJuego()){
             bool claveCorrecta=escape.resolverSala(sala, clave);
             if (!claveCorrecta) ViewBag.Error="La clave ingresada no es correcta";
-            if (sala==4) return View("victoria");
+            if ((sala==4)&&(claveCorrecta)) return View("victoria");
             else return Comenzar();
         }
         else return Comenzar(); 
     }
-
+    public IActionResult Pistas(int sala)
+    {
+        ViewBag.Pista="";
+        if (sala==1) ViewBag.Pista="La clave es una letra de cada palabra. (Tocá el boton '+ Resultados' para ver las palabras.)";
+        if (sala==2) ViewBag.Pista="En esta sopa de letras hay una palabra fuera de contexto... (Tocá el boton '+ Resultados' para ver las palabras.)";
+        if (sala==3) ViewBag.Pista="";
+        if (sala==4) ViewBag.Pista="";
+        return Comenzar();
+    }
+    public IActionResult Solucion(int sala)
+    {
+        ViewBag.Clave="";
+        if (sala==1) ViewBag.Clave="La clave es una letra de cada palabra. (Tocá el boton '+ Resultados' para ver las palabras.)";
+        if (sala==2) ViewBag.Pista="En esta sopa de letras hay una palabra fuera de contexto... (Tocá el boton '+ Resultados' para ver las palabras.)";
+        if (sala==3) ViewBag.Pista="";
+        if (sala==4) ViewBag.Pista="";
+        return Comenzar();
+    }
     public IActionResult Privacy()
     {
         return View();

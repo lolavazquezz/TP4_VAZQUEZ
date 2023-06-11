@@ -1,9 +1,17 @@
 <h1>titulo de la sala</h1>
-<p>hols</p>
-<img src="sala1.jpg">
+<p>El policía dejó abierta la puerta de tu celda. Llegas hasta el final del pasillo y te das cuenta que la puerta tiene una clave,
+    miras a tu alrededor y ves que el policía dejó un libro de crucigramas en la mesa. Resolvelo para desifrar la clave.
+</p>
+<iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/15244538-paises_del_mundo.html"></iframe>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
-    <input type="text" name="clave" placeholder="Ingrese la clave" required>
+    <input type="text" name="clave" placeholder="Ingrese la clave en mayúsculas" required>
     <input type="hidden" name="sala" value="1">
     <input type="submit" value="Enviar">
 </form>
+@ViewBag.Pista
+<form action='@Url.Action("Pistas")' method="post">
+    <input type="hidden" name="sala" value="1">
+    <input type="submit" value="Pista">
+</form>
+

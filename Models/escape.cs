@@ -1,5 +1,5 @@
 public static class escape{
-    private static string[] incognitaSalas{get; set;}= new string[4]{"1","2","3","4"};
+    private static string[] incognitaSalas{get; set;}= new string[4]{"LTJEC","GANCHO","3","4"};
     private static int estadoJuego{get; set;}=1;
     static escape(){}
     public static int GetEstadoJuego(){
@@ -7,7 +7,8 @@ public static class escape{
     }
     public static bool resolverSala(int sala, string incognita){
         if (incognita==incognitaSalas[sala-1]){ 
-            estadoJuego++; 
+            if (sala==4) estadoJuego=1;
+            else estadoJuego++; 
             return true;
         }
         else return false;

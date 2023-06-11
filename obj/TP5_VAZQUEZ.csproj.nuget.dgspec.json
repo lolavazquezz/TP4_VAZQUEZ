@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\TP5_VAZQUEZ.csproj": {}
+    "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {}
   },
   "projects": {
-    "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\TP5_VAZQUEZ.csproj": {
+    "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\TP5_VAZQUEZ.csproj",
+        "projectUniqueName": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
         "projectName": "TP5_VAZQUEZ",
-        "projectPath": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\TP5_VAZQUEZ.csproj",
-        "packagesPath": "C:\\Users\\47436085\\.nuget\\packages\\",
-        "outputPath": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\obj\\",
+        "projectPath": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
+        "packagesPath": "/Users/lola/.nuget/packages/",
+        "outputPath": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\47436085\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lola/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

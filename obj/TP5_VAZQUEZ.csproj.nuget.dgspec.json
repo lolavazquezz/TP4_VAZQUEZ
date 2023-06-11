@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {}
+    "/Users/lola/Desktop/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {}
   },
   "projects": {
-    "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {
+    "/Users/lola/Desktop/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
+        "projectUniqueName": "/Users/lola/Desktop/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
         "projectName": "TP5_VAZQUEZ",
-        "projectPath": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
+        "projectPath": "/Users/lola/Desktop/TP5_VAZQUEZ/TP5_VAZQUEZ.csproj",
         "packagesPath": "/Users/lola/.nuget/packages/",
-        "outputPath": "/Users/lola/Documents/GitHub/TP5_VAZQUEZ/obj/",
+        "outputPath": "/Users/lola/Desktop/TP5_VAZQUEZ/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lola/.nuget/NuGet/NuGet.Config"

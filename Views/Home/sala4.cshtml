@@ -1,9 +1,18 @@
-<h1>sala 4</h1>
-<p>descripcion</p>
+<h1>FALSA IDENTIDAD</h1>
+<p>Ya estas afuera, lo único que queda es dar un código de identificación
+    para que te dejen salir. El código es una serie de números y letras
+    que tiene cada policía para identificarse. 
+</p>
 <img src="sala4.jpg">
+<br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
     <input type="text" name="clave" placeholder="Ingrese la clave" required>
     <input type="hidden" name="sala" value="4">
     <input type="submit" value="Enviar">
+</form>
+@ViewBag.Pista
+<form action='@Url.Action("Pistas")' method="post">
+    <input type="hidden" name="sala" value="4">
+    <input type="submit" value="Pista">
 </form>

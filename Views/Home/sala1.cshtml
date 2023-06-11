@@ -1,8 +1,11 @@
-<h1>titulo de la sala</h1>
-<p>El policía dejó abierta la puerta de tu celda. Llegas hasta el final del pasillo y te das cuenta que la puerta tiene una clave,
-    miras a tu alrededor y ves que el policía dejó un libro de crucigramas en la mesa. Resolvelo para desifrar la clave.
+<h1>SALIDA DE LA CELDA</h1>
+<p>Tu primer objetivo es salir de tu celda, la cual tiene clave. 
+    El policía que te ayudará a salir te pasó a escondidas una hoja 
+    de un libro de crucigramas. Resolvelo para desifrar la clave, 
+    pero tenés tiempo limitado.
 </p>
 <iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/15244538-paises_del_mundo.html"></iframe>
+<br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
     <input type="text" name="clave" placeholder="Ingrese la clave en mayúsculas" required>
@@ -14,4 +17,3 @@
     <input type="hidden" name="sala" value="1">
     <input type="submit" value="Pista">
 </form>
-

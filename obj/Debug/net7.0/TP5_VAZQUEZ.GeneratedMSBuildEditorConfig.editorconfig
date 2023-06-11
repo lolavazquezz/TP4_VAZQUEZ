@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP5_VAZQUEZ
 build_property.RootNamespace = TP5_VAZQUEZ
-build_property.ProjectDir = /Users/lola/Documents/GitHub/TP5_VAZQUEZ/
+build_property.ProjectDir = /Users/lola/Desktop/TP5_VAZQUEZ/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/lola/Documents/GitHub/TP5_VAZQUEZ
+build_property.MSBuildProjectDirectory = /Users/lola/Desktop/TP5_VAZQUEZ
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/creditos.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/creditos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/Index.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/Privacy.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/sala1.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/sala1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zYWxhMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/sala2.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/sala2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zYWxhMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/sala3.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/sala3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zYWxhMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/sala4.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/sala4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zYWxhNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/tutorial.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/tutorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS90dXRvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Home/victoria.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Home/victoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS92aWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Shared/Error.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/_ViewImports.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/_ViewStart.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/lola/Documents/GitHub/TP5_VAZQUEZ/Views/Shared/_Layout.cshtml]
+[/Users/lola/Desktop/TP5_VAZQUEZ/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cofw2ysmlx

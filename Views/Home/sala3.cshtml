@@ -1,9 +1,18 @@
-<h1>sala 3</h1>
-<p>descripcion</p>
-<img src="sala3.jpg">
+<h1>EL DIARIO EXTRAÑO</h1>
+<p>Saliste del pasillo de las celdas, ahora tenes que pasar por
+    las oficinas. El encargado de repartir el diario se acerca
+    y te da una el diario. Este diario te ayudará a conseguir
+    la clave para salir.</p>
+<img src="~/imagenes/sala3.jpeg">
+<br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
     <input type="text" name="clave" placeholder="Ingrese la clave" required>
     <input type="hidden" name="sala" value="3">
     <input type="submit" value="Enviar">
+</form>
+@ViewBag.Pista
+<form action='@Url.Action("Pistas")' method="post">
+    <input type="hidden" name="sala" value="3">
+    <input type="submit" value="Pista">
 </form>

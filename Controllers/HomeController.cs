@@ -42,7 +42,7 @@ public class HomeController : Controller
         ViewBag.Pista="";
         if (sala==1) ViewBag.Pista="La clave es una letra de cada palabra. (Tocá el boton '+ Resultados' para ver las palabras.)";
         if (sala==2) ViewBag.Pista="En esta sopa de letras hay una palabra fuera de contexto... (Tocá el boton '+ Resultados' para ver las palabras.)";
-        if (sala==3) ViewBag.Pista="";
+        if (sala==3) ViewBag.Pista="Este diario tiene algunas letras extrañas...";
         if (sala==4) ViewBag.Pista="";
         return Comenzar();
     }

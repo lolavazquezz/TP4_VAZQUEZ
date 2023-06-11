@@ -1,9 +1,20 @@
-<h1>sala 2</h1>
-<p>descripcion</p>
+<h1>LA PRIMERA PUERTA</h1>
+<p>Lograste salir de tu celda. Ves en el piso prendas de ropa que 
+    el policía te dejo, y, junto con estas, hay un celular con una 
+    sopa de letras. Te cambias para hacerte pasar por un policía y
+    vas hacia la puerta que esta al final del pasillo. Podrás atravesarla
+    diciéndole la clave al guardia que se encuentra en la puerta. 
+</p>
 <iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/15244713-sopa_y_ensalada.html"></iframe>
+<br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
-    <input type="text" name="clave" placeholder="Ingrese la clave" required>
+    <input type="text" name="clave" placeholder="Ingrese la clave en mayúsculas" required>
     <input type="hidden" name="sala" value="2">
     <input type="submit" value="Enviar">
+</form>
+@ViewBag.Pista
+<form action='@Url.Action("Pistas")' method="post">
+    <input type="hidden" name="sala" value="2">
+    <input type="submit" value="Pista">
 </form>

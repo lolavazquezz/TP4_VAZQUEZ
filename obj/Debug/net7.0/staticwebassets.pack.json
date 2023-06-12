@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/TP5_VAZQUEZ.bundle.scp.css"
     },
     {
+      "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/.DS_Store",
+      "PackagePath": "staticwebassets/imagenes/.DS_Store"
     },
     {
       "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/1.jpg",
@@ -31,6 +39,14 @@
     {
       "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/portada.png",
       "PackagePath": "staticwebassets/imagenes/portada.png"
+    },
+    {
+      "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/sala1.png",
+      "PackagePath": "staticwebassets/imagenes/sala1.png"
+    },
+    {
+      "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/sala3.jpeg",
+      "PackagePath": "staticwebassets/imagenes/sala3.jpeg"
     },
     {
       "Id": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/js/site.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wLcVgyK9zITuRZZ3BUkQlgJUPCOkaD3ABXG4/fdqwOM=",
+  "Hash": "8i7oy+2FNp5iGuS5z7sBWZYHcN0V/WobUvLnnf32lZo=",
   "Source": "TP5_VAZQUEZ",
   "BasePath": "_content/TP5_VAZQUEZ",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/lola/Desktop/TP5_VAZQUEZ/obj/Debug/net7.0/scopedcss/projectbundle/TP5_VAZQUEZ.bundle.scp.css"
     },
     {
+      "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/.DS_Store",
+      "SourceId": "TP5_VAZQUEZ",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/",
+      "BasePath": "_content/TP5_VAZQUEZ",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/css/site.css",
       "SourceId": "TP5_VAZQUEZ",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/.DS_Store",
+      "SourceId": "TP5_VAZQUEZ",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/",
+      "BasePath": "_content/TP5_VAZQUEZ",
+      "RelativePath": "imagenes/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/.DS_Store"
     },
     {
       "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/1.jpg",
@@ -151,6 +185,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/imagenes/portada.png"
+    },
+    {
+      "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/sala1.png",
+      "SourceId": "TP5_VAZQUEZ",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/",
+      "BasePath": "_content/TP5_VAZQUEZ",
+      "RelativePath": "imagenes/sala1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/sala1.png"
+    },
+    {
+      "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/sala3.jpeg",
+      "SourceId": "TP5_VAZQUEZ",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/",
+      "BasePath": "_content/TP5_VAZQUEZ",
+      "RelativePath": "imagenes/sala3.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imagenes/sala3.jpeg"
     },
     {
       "Identity": "/Users/lola/Desktop/TP5_VAZQUEZ/wwwroot/imagenes/Thumbs.db",

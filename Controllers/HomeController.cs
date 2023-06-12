@@ -21,6 +21,10 @@ public class HomeController : Controller
     {
         return View("Tutorial");
     }
+    public IActionResult Creditos()
+    {
+        return View("Creditos");
+    }
     public IActionResult Comenzar()
     {
         string sala="sala" + escape.GetEstadoJuego();

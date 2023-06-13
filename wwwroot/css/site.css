@@ -20,3 +20,23 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.imagenes img{
+  width: 33%;
+}
+
+.portada img{
+  width: 99.7%;
+}
+
+p{
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size:larger;
+}
+.descripcion{
+    text-align: center;
+}
+.links{
+  text-align: center;
+}

@@ -1,16 +1,27 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<link rel="stylesheet" href="~/css/site.css">
 <h1>PRISON BREAK</h1>
-<p>"La prision más díficil de escapar es tu mente"</p>
-<p>En esta sala de escape cumplís el rol de un prisionero dentro de una carcel. Tu objetivo es lograr escapar y, 
+<h4>"La prision más díficil de escapar es tu mente"</h4>
+<div class="descripcion">
+    <p>En esta sala de escape cumplís el rol de un prisionero dentro de una carcel. Tu objetivo es lograr escapar y, 
     para tu buena suerte, no estas solo. Un policía te ayudará a escapar, pero no será fácil. No podrás tener contacto 
     directo con él pero te dejará pistas
     para que puedas llegar a la salida.</p>
-<img src="~/imagenes/portada.png">
-<img src="~/imagenes/1.jpg">
-<img src="~/imagenes/2.jpg">
-<img src="~/imagenes/3.jpg">
-<a href='@Url.Action("Comenzar")'><input type="button" value="COMENZAR A JUGAR"></a>
-<a href='@Url.Action("Tutorial")'><input type="button" value="TUTORIAL"></a>
-<a href='@Url.Action("Creditos")'><input type="button" value="CRÉDITOS"></a>
+</div>
+
+<div class="portada">
+    <img src="~/imagenes/portada.png">
+</div>
+<div class="imagenes">
+    <img src="~/imagenes/1.jpg">
+    <img src="~/imagenes/2.jpg">
+    <img src="~/imagenes/3.jpg">
+</div>
+<br>
+<div class="links">
+    <a href='@Url.Action("Tutorial")'><input type="button" value="TUTORIAL"></a>
+    <a href='@Url.Action("Comenzar")'><input type="button" value="COMENZAR A JUGAR"></a>
+    <a href='@Url.Action("Creditos")'><input type="button" value="CRÉDITOS"></a>
+</div>

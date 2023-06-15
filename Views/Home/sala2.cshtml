@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="~/css/site.css">
 <h1>LA PRIMERA PUERTA</h1>
 <p>Lograste salir de tu celda. Ves en el piso prendas de ropa que 
     el policía te dejo, y, junto con estas, hay un celular con una 
@@ -13,8 +14,4 @@
     <input type="hidden" name="sala" value="2">
     <input type="submit" value="Enviar">
 </form>
-@ViewBag.Pista
-<form action='@Url.Action("Pistas")' method="post">
-    <input type="hidden" name="sala" value="2">
-    <input type="submit" value="Pista">
-</form>
+<button onclick="alert('En esta sopa de letras hay una palabra fuera de contexto...')"> Pista</button>

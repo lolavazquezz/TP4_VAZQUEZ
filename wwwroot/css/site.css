@@ -21,22 +21,21 @@ body {
   margin-bottom: 60px;
 }
 
-.imagenes img{
+img{
   width: 33%;
+  margin-bottom: 15px;
 }
-
+.imgSala{
+  width: 50%;
+}
 .portada img{
   width: 99.7%;
 }
-
 p{
   font-family:Arial, Helvetica, sans-serif;
   font-weight: 300;
   font-size:larger;
 }
 .descripcion{
-    text-align: center;
-}
-.links{
   text-align: center;
 }

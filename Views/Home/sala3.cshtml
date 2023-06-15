@@ -1,9 +1,11 @@
+<link rel="stylesheet" href="~/css/site.css">
 <h1>EL DIARIO EXTRAÑO</h1>
 <p>Saliste del pasillo de las celdas, ahora tenes que pasar por
     las oficinas. El encargado de repartir el diario se acerca
     y te da una el diario. Este diario te ayudará a conseguir
     la clave para salir.</p>
-<img src="~/imagenes/sala3.jpeg">
+
+<img class="imgSala" src="~/imagenes/sala3.jpeg">
 <br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
@@ -11,8 +13,4 @@
     <input type="hidden" name="sala" value="3">
     <input type="submit" value="Enviar">
 </form>
-@ViewBag.Pista
-<form action='@Url.Action("Pistas")' method="post">
-    <input type="hidden" name="sala" value="3">
-    <input type="submit" value="Pista">
-</form>
+<button onclick="alert('Este diario tiene algunas letras extrañas...')"> Pista</button>

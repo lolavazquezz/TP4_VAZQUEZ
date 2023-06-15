@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="~/css/site.css">
 <h1>FALSA IDENTIDAD</h1>
 <p>Ya estas afuera, lo único que queda es dar un código de identificación
     para que te dejen salir. El código es una serie de números y letras
@@ -11,8 +12,4 @@
     <input type="hidden" name="sala" value="4">
     <input type="submit" value="Enviar">
 </form>
-@ViewBag.Pista
-<form action='@Url.Action("Pistas")' method="post">
-    <input type="hidden" name="sala" value="4">
-    <input type="submit" value="Pista">
-</form>
+<button onclick="alert('')"> Pista</button>

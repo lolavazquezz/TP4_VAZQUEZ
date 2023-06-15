@@ -33,8 +33,24 @@
       "PackagePath": "staticwebassets\\imagenes\\3.jpg"
     },
     {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\4.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\5.jpg"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\6.jpg"
+    },
+    {
       "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\Thumbs.db",
       "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\integrante.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\integrante.jpg"
     },
     {
       "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\portada.png",

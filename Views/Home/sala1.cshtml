@@ -1,9 +1,10 @@
+<link rel="stylesheet" href="~/css/site.css">
 <h1>SALIDA DE LA CELDA</h1>
 <p>Tu primer objetivo es salir de tu celda, la cual tiene clave. 
     El policía que te ayudará a salir, te pasó a escondidas una hoja 
     de un libro de crucigramas para que desifres la clave.
 </p>
-<img src="~/imagenes/sala1.png">
+<img class="imgSala" src="~/imagenes/sala1.png">
 <br>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
@@ -11,8 +12,4 @@
     <input type="hidden" name="sala" value="1">
     <input type="submit" value="Enviar">
 </form>
-@ViewBag.Pista
-<form action='@Url.Action("Pistas")' method="post">
-    <input type="hidden" name="sala" value="1">
-    <input type="submit" value="Pista">
-</form>
+<button onclick="alert('La clave es una letra de cada palabra')"> Pista</button>

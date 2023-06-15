@@ -41,15 +41,6 @@ public class HomeController : Controller
         }
         else return Comenzar(); 
     }
-    public IActionResult Pistas(int sala)
-    {
-        ViewBag.Pista="";
-        if (sala==1) ViewBag.Pista="La clave es una letra de cada palabra.";
-        if (sala==2) ViewBag.Pista="En esta sopa de letras hay una palabra fuera de contexto...";
-        if (sala==3) ViewBag.Pista="Este diario tiene algunas letras extrañas...";
-        if (sala==4) ViewBag.Pista="";
-        return Comenzar();
-    }
     public IActionResult Privacy()
     {
         return View();

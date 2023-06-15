@@ -4,12 +4,13 @@
     para que te dejen salir. El código es una serie de números y letras
     que tiene cada policía para identificarse. 
 </p>
-<img src="sala4.jpg">
-<br>
+<pre>7U C0D160 F4L50 D3 1D3N71D4D D3
+     P0L1C14 35 D8KP3L36T QU3 73 
+     P3RM171R4 35C4P4R</pre>
 @ViewBag.Error
 <form action='@Url.Action("Habitacion")' method="post">
     <input type="text" name="clave" placeholder="Ingrese la clave" required>
     <input type="hidden" name="sala" value="4">
     <input type="submit" value="Enviar">
 </form>
-<button onclick="alert('')"> Pista</button>
+<button onclick="alert('Los numeros reemplazan a algunas letras...')"> Pista</button>

@@ -1,5 +1,5 @@
 public static class escape{
-    private static string[] incognitaSalas{get; set;}= new string[4]{"AAPDAC","GANCHO","SRNE","4"};
+    private static string[] incognitaSalas{get; set;}= new string[4]{"AAPDAC","GANCHO","SRNE","D8KP3L36T"};
     private static int estadoJuego{get; set;}=1;
     static escape(){}
     public static int GetEstadoJuego(){

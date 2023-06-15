@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\imagenes\\Thumbs.db"
     },
     {
+      "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\ganador.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ganador.jpg"
+    },
+    {
       "Id": "Z:\\2023\\PROGRAMACION\\TP5_VAZQUEZ\\wwwroot\\imagenes\\integrante.jpg",
       "PackagePath": "staticwebassets\\imagenes\\integrante.jpg"
     },

@@ -20,13 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
-
 img{
   width: 33%;
   margin-bottom: 15px;
 }
 .imgSala{
-  width: 50%;
+  width: 70%;
 }
 .portada img{
   width: 99.7%;
@@ -37,5 +36,15 @@ p{
   font-size:larger;
 }
 .descripcion{
+  text-align: center;
+}
+pre{
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: larger;
+  text-align: center;
+}
+.links{
   text-align: center;
 }
